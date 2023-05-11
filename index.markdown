@@ -7,13 +7,11 @@ layout: home
 
 # About
 
-Hi! :wave: I'm Ben.
+Hi! I'm Henrik.
 
-I'm currently a predoctoral fellow in economics at Stanford, working most closely with [Claudia Allende](https://www.claudiaallendesc.com/) and [Shoshana Vasserman](https://shoshanavasserman.com/).
+I'm a senior at Yale University studying Computer Science & Economics. I'm interested in all things data analytics related. Please check out my projects below.
 
-Previously, I was at [QuantCo](https://quantco.com/), developing quantitative solutions to problems in industry. Still before that, I completed a master's
-degree in statistics at Oxford, and a bachelor's degree in applied mathematics at
-Harvard.
+Previously, I worked under the Data Science & Analytics Head Intern at [Frever](https://frever.com/), developing ... Before that, I was a Data Science Intern at Tetra Pak.
 
-I'm originally from :uk:, :de: and :fr:. Outside of work, some of the things I get excited about are architecture, the outdoors,
-and electronica.
+I'm originally from 🇩🇪 and 🇸🇪. Outside of work, some of the things I get excited about are cinematogrophy, the outdoors,
+and house music.
