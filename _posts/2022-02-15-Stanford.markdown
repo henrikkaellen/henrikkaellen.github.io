@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Democracy Research Project"
-date:   2023-05-11 18:41:00 +0100
+date:   2022-02-15 18:41:00 +0100
 categories: news
 excerpt: Check out my empirical project on Democracy and Wealth..
 ---
