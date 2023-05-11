@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-domain: fabianbarrett.github.io
-url: https://fabianbarrett.github.io/
+domain: henrikkaellen.github.io
+url: https://henrikkaellen.github.io/
 # baseurl: "/docs"
 
-title: Ben Barrett
-email: barrettb@stanford.edu
+title: Henrik Kaellenius
+email: henrik.kaellenius@yale.edu
 description: >- # this means to ignore newlines until "baseurl:"
-github_username:  FabianBarrett
+github_username:  henrikkaellen
 # linkedin_username: ben-neuber-barrett
 show_excerpts: true
 
